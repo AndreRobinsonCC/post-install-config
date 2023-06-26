@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com/watch?v=mbckqBHjLxM)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,12 +22,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
+- Item 1 Reload ISS (Open ISS, Stop and Start the server)
+- Item 2 Go to sites _> Default _> osTicket 
+- Item 3 Enable Proper Extensions
+- Item 4 Rename: ost-config.php
+- Item 5 Assign Permissions: ost.config.php
+- Item 6 Set up osTicket in browser
+  
 <h2>Configuration Steps</h2>
 
 <p>
